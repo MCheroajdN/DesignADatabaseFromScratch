@@ -1,4 +1,4 @@
-# Building A Database of Books pulishing
+# Building A Database of Books publishing
 To design a database on a topic of your choice completely from scratch!
 
 ## Requirements: 
